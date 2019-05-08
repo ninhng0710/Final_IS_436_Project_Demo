@@ -1,0 +1,36 @@
+body {
+	background-color: #660000;
+}
+
+.content {
+	border: solid;
+	border-width: 1px;
+	border-color: black;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-bottom: 150px;
+	background-color: white;
+}
+
+h1 {
+	color: #b30000;
+}
+
+.submitButtons{
+	border: solid;
+	border: 1px;
+	border-color: black;
+	background-color: gray;
+	color: white;
+	padding: 5px;
+}
+
+.links {
+	border: solid;
+	border: 1px;
+	border-color: black;
+	background-color: yellow;
+	color: black;
+	padding: 5px;
+}

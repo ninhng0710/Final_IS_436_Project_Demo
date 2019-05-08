@@ -1,0 +1,91 @@
+body {
+	background-color: #660000;
+}
+
+.content {
+	border: solid;
+	border-width: 1px;
+	border-color: black;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-bottom: 150px;
+	background-color: white;
+}
+
+.checkListContent {
+	border: solid;
+	border-width: 1px;
+	border-color: black;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-bottom: 150px;
+	background-color: white;
+}
+
+h1 {
+	color: #b30000;
+}
+
+.submitButtons{
+	border: solid;
+	border: 1px;
+	border-color: black;
+	background-color: gray;
+	color: white;
+	padding: 5px;
+}
+
+.linkBody {
+	border: solid;
+	border-width: 1px;
+	border-color: black;
+}
+
+.links {
+	border: solid;
+	border-width: 1px;
+	border-color: black;
+	background-color: #ffffb3;
+	color: black;
+	padding: 5px;
+	text-decoration: none;
+
+}
+
+.links2 {
+	border: solid;
+	border-width: 1px;
+	border-color: black;
+	background-color: #e0e0d1;
+	color: black;
+	padding: 5px;
+	text-decoration: none;
+
+}
+
+.linkSelected {
+	border: solid;
+	border-width: 1px;
+	border-color: black;
+	background-color: #ff6666;
+	color: black;
+	padding: 5px;
+	text-decoration: none;
+}
+
+.linkPosition {
+	text-align: center;
+	margin: 10px;
+}
+
+.linkPosition2 {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.body {
+	padding-bottom: 100px;
+	padding-left: 100px;
+}
